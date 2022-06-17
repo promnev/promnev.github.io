@@ -51,6 +51,8 @@ top: -65px;
 }
 
 #partners {
+display: flex;
+flex-direction: column;
 position: relative;
 top: -30px;
 }
